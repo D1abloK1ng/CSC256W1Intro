@@ -1,0 +1,12 @@
+html{
+    background-image: url(Selfie.jpg);
+    background-repeat: no-repeat;
+    height: max-content;
+    background-position: center;
+}
+body{
+    margin-top: 200px;
+    text-align: left;
+    font-size: xx-large;
+    background-color: transparent;
+}
